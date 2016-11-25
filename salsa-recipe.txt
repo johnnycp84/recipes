@@ -1,0 +1,9 @@
+salsa-recipe.txt
+
+Tomatoes
+Chile
+Garlic
+Onion
+Coriander
+Salt 
+Pepper
